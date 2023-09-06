@@ -3,7 +3,9 @@ How i implement GRBL for ESP32
 
 1. Download VScode from https://code.visualstudio.com/download and install
 
-2. Download or clone Bart Drings wonderful port of GRBL for the ESP32 from https://github.com/bdring/Grbl_Esp32
+2. Download or clone Bart Drings wonderful port of GRBL for the ESP32 from
+
+   https://github.com/bdring/Grbl_Esp32
    
    git clone https://github.com/bdring/Grbl_Esp32.git
 
