@@ -13,7 +13,7 @@ How i implement GRBL for ESP32
 
 5. When you restart the board a new WI-FI Access Point is automatically set up with the password 12345678
 
-6. IF you don´t se the web interface enter the /data folder and upload both files: favicon.ico and index.html.gz
+6. IF you don´t see the web interface enter the /data folder and upload both files: favicon.ico and index.html.gz
 
 7. Restart and you'll se the interface
 
